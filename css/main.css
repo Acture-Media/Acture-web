@@ -19733,7 +19733,7 @@ START: CTA CSS
 ----------------------------------------*/
 .h1-cta-section {
   position: relative;
-  background-color: var(--tj-color-theme-primary);
+  /* background-color: var(--tj-color-theme-primary); */
   padding-top: 75px;
   padding-bottom: 75px;
   z-index: 1;
@@ -19753,7 +19753,7 @@ START: CTA CSS
   -o-object-fit: cover;
   object-fit: cover;
   mix-blend-mode: luminosity;
-  opacity: 0.5;
+  /* opacity: 0.5; */
 }
 
 @media (max-width: 575px) {
