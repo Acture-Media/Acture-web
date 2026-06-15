@@ -5140,6 +5140,7 @@ START: Offcanvas CSS
 
 .tj-offcanvas .offcanvas_socials {
   margin-top: 46px;
+  gap: 8px;
 }
 
 .tj-offcanvas-2 .offcanvas_bg {
