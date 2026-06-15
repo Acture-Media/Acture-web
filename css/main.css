@@ -11992,7 +11992,7 @@ START: Projects CSS
   }
 
   .h1_projects_wrapper .section_heading .sec_title .space {
-    padding-left: 128px;
+    padding-left: 100px;
   }
 }
 
@@ -40105,4 +40105,136 @@ only screen and (min-width: 768px) and (max-width: 991px) {
     transition: all 0.75s ease;
     pointer-events: none;
     visibility: hidden;
+}
+
+/* ---- Services Page ---- */
+
+.tj-service-detail-section {
+  padding-top: 80px;
+  padding-bottom: 80px;
+}
+
+.mb-60 {
+  margin-bottom: 60px;
+}
+
+.sec_tagline {
+  font-size: 1.5rem;
+  font-weight: 500;
+  margin-top: 1rem;
+  opacity: 0.75;
+}
+
+.service-offerings-wrap {
+  display: flex;
+  flex-direction: column;
+  gap: 0;
+  border-top: 1px solid rgba(0,0,0,0.12);
+}
+
+.tj-theme-dark .service-offerings-wrap {
+  border-top-color: rgba(255,255,255,0.12);
+}
+
+.service-offering-item {
+  display: flex;
+  gap: 40px;
+  padding: 40px 0;
+  border-bottom: 1px solid rgba(0,0,0,0.12);
+  align-items: flex-start;
+}
+
+.tj-theme-dark .service-offering-item {
+  border-bottom-color: rgba(255,255,255,0.12);
+}
+
+.offering-number {
+  font-size: 0.85rem;
+  font-weight: 600;
+  letter-spacing: 0.1em;
+  min-width: 48px;
+  padding-top: 4px;
+  opacity: 0.5;
+  flex-shrink: 0;
+}
+
+.offering-content {
+  flex: 1;
+}
+
+.offering-title {
+  font-size: 1.25rem;
+  font-weight: 600;
+  margin-bottom: 12px;
+}
+
+.offering-content p {
+  font-size: 1rem;
+  line-height: 1.75;
+  opacity: 0.8;
+  margin: 0;
+}
+
+.tj-service-problem-section {
+  padding-top: 80px;
+  padding-bottom: 80px;
+}
+
+.service-fit-table {
+  display: flex;
+  flex-direction: column;
+  border-top: 1px solid rgba(255,255,255,0.15);
+}
+
+.service-fit-row {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  border-bottom: 1px solid rgba(255,255,255,0.15);
+  gap: 0;
+}
+
+.service-fit-col {
+  padding: 20px 24px;
+  font-size: 0.95rem;
+  line-height: 1.6;
+}
+
+.service-fit-col.fit-if {
+  border-right: 1px solid rgba(255,255,255,0.15);
+  opacity: 0.9;
+}
+
+.service-fit-col.fit-then {
+  opacity: 0.75;
+}
+
+.service-fit-row:first-child .service-fit-col {
+  font-size: 0.8rem;
+  letter-spacing: 0.06em;
+  text-transform: uppercase;
+  opacity: 0.5;
+  padding-top: 14px;
+  padding-bottom: 14px;
+}
+
+@media only screen and (max-width: 767px) {
+  .service-offering-item {
+    flex-direction: column;
+    gap: 12px;
+    padding: 28px 0;
+  }
+
+  .service-fit-row {
+    grid-template-columns: 1fr;
+  }
+
+  .service-fit-col.fit-if {
+    border-right: none;
+    border-bottom: 1px solid rgba(255,255,255,0.1);
+    padding-bottom: 12px;
+  }
+
+  .service-fit-col.fit-then {
+    padding-top: 12px;
+  }
 }
