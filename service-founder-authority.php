@@ -1,0 +1,1111 @@
+﻿<!DOCTYPE html>
+<html class="no-js" lang="en">
+
+<head>
+  <meta charset="utf-8">
+  <meta http-equiv="x-ua-compatible" content="ie=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="description" content="about">
+
+  <!-- Site Title -->
+  <title>Acture Media | Founder Authority Engines</title>
+
+
+  <!-- CSS here -->
+  <link rel="stylesheet" href="css/bootstrap.min.css">
+  <link rel="stylesheet" href="css/acture-icons.css">
+  <link rel="stylesheet" href="css/meanmenu.css">
+  <link rel="stylesheet" href="css/swiper.min.css">
+  <link rel="stylesheet" href="css/venobox.min.css">
+  <link rel="stylesheet" href="css/main.css">
+</head>
+
+<body class="about">
+  <!-- Preloader -->
+  <div class="tj-preloader">
+
+    <svg viewBox="0 0 1000 1000" preserveAspectRatio="none">
+      <path id="preloaderSvg" d="M0,1005S175,995,500,995s500,5,500,5V0H0Z"></path>
+    </svg>
+    <div class="loading-container">
+      <div class="loading-circle"></div>
+      <div id="loading-icon"><img src="images/custom/acture-logo-light.png" alt="Loading"></div>
+    </div>
+    <div class="tj-preloader_bottom">
+      <div class="loading_text">
+        [ <span>Loading Please wait...</span> ]
+      </div>
+      <div class="copyright_text">
+        [ <span>©2026</span> ]
+      </div>
+    </div>
+  </div>
+
+  <!-- Offcanvas -->
+  <div class="tj-offcanvas-overlay"></div>
+  <div class="tj-offcanvas">
+    <div class="offcanvas_bg"></div>
+    <div class="offcanvas_wrapper">
+
+      <div class="offcanvas_top d-flex flex-wrap align-items-center justify-content-between gap-3">
+        <div class="offcanvas_logo">
+          <a href="index.php" class="logo"><img src="images/custom/acture-logo-dark 1.png" alt="LOGO"></a>
+        </div>
+
+        <button class="offcanvas_close">
+          <span class="close-text">Close</span>
+
+          <span class="tj_sidebar_toggle">
+            <span></span>
+            <span></span>
+            <span></span>
+            <span></span>
+            <span></span>
+            <span></span>
+            <span></span>
+            <span></span>
+            <span></span>
+          </span>
+        </button>
+      </div>
+
+      <div class="offcanvas_action d-none d-lg-block">
+        <h5 class="greetings">Glad you're here! <img src="images/start.svg" alt=""></h5>
+        <a href="about.php" class="tj_text_btn">
+          Know more us
+          <i class="tji-arrow-right"></i>
+        </a>
+      </div>
+
+      <!-- mobile menu -->
+      <div class="offcanvas_menu mobile_menu d-lg-none"></div>
+
+      <div class="offcanvas_contact tj_contact address">
+        <div class="sec_subtitle contact_title">[ <span>Location</span> ]</div>
+
+        <div class="contact_info">1102 Ajmera Sikova, Laal Bahadur Shastri Marg, Nityanand Nagar, Ghatkopar West, <br>
+
+          Mumbai - 400086
+        </div>
+      </div>
+
+      <div class="offcanvas_contact tj_contact contact">
+        <div class="sec_subtitle contact_title">[ <span>Contact</span> ]</div>
+
+        <a href="tel:+918082233227" class="contact_info">+918082233227</a>
+        <a href="mailto:info@acturemedia.com" class="contact_info">info@acturemedia.com</a>
+      </div>
+
+      <ul class="offcanvas_socials tj_socials">
+        <li>
+          <a href="https://facebook.com" target="_blank"><i class="tji-facebook"></i></a>
+        </li>
+        <li>
+          <a href="https://linkedin.com" target="_blank"><i class="tji-linkedin"></i></a>
+        </li>
+        <li>
+          <a href="https://instagram.com" target="_blank"><i class="tji-instagram"></i></a>
+        </li>
+        <li>
+          <a href="https://twitter.com" target="_blank"><i class="tji-x-twitter"></i></a>
+        </li>
+      </ul>
+    </div>
+  </div>
+
+  <!-- start: Header Area -->
+  <div class="tj_navigation_wrap_overlay"></div>
+  <header class="tj-header header-1 header-absolute">
+    <div class="container-fluid">
+      <div class="row">
+        <div class="col">
+          <div class="tj-header_wrap">
+
+            <!-- logo -->
+            <div class="site_logo">
+              <a class="logo" href="index.php"><img src="./images/custom/acture-logo-dark 1.png" alt="LOGO"></a>
+            </div>
+
+            <!-- navigation -->
+            <div class="site_navigation d-none d-lg-inline-flex">
+              <nav id="mobile-menu">
+                <ul>
+                  <li class="">
+                    <a href="./index.php">Home</a>
+                  </li>
+                  <li class="">
+                    <a href="./about.php">Discover us</a>
+                  </li>
+                                    <li class="has-dropdown">
+                    <a href="./services.php">Services</a>
+
+                    <ul class="sub-menu">
+                      <li><a href="./services.php">BRAND FOUNDATION STUDIO</a></li>
+                      <li><a href="./service-founder-authority.php">FOUNDER AUTHORITY ENGINES</a></li>
+                      <li><a href="./service-demand-pipeline.php">DEMAND PIPELINE SYSTEMS</a></li>
+                      <li><a href="./service-content-scale.php">CONTENT AT SCALE</a></li>
+                      <li><a href="./service-brand-storytelling.php">CONTENT &amp; BRAND STORYTELLING</a></li>
+                      <li><a href="./service-search-engine-optimization.php">SEO, BUT LET'S MAKE IT AI.</a></li>
+                      <li><a href="./service-digital-presence.php">DIGITAL PRESENCE ENGINEERING</a></li>
+                      <li><a href="./service-conversion-intelligence.php">CONVERSION INTELLIGENCE</a></li>
+                    </ul>
+                  </li>
+                  <li class="has-dropdown">
+                    <a href="#">Resources</a>
+
+                    <ul class="sub-menu">
+                      <li><a href="./blogs.php">Blogs</a></li>
+                      <li><a href="./case-studies.php">Case Studies</a></li>
+                    </ul>
+                  </li>
+                  <li>
+                    <a href="./careers.php">Careers</a>
+                  </li>
+                </ul>
+              </nav>
+            </div>
+
+            <!-- header right -->
+            <div class="tj-header_right">
+              <a href="./ai-leap.php" class="tj_btn custom-button  flip-text-wrap d-none d-md-inline-flex gap-2">
+                <svg xmlns="http://www.w3.org/2000/svg" width="18" height="18" viewBox="0 0 24 24" fill="none"
+                  stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"
+                  class="lucide lucide-sparkles-icon lucide-sparkles">
+                  <path
+                    d="M11.017 2.814a1 1 0 0 1 1.966 0l1.051 5.558a2 2 0 0 0 1.594 1.594l5.558 1.051a1 1 0 0 1 0 1.966l-5.558 1.051a2 2 0 0 0-1.594 1.594l-1.051 5.558a1 1 0 0 1-1.966 0l-1.051-5.558a2 2 0 0 0-1.594-1.594l-5.558-1.051a1 1 0 0 1 0-1.966l5.558-1.051a2 2 0 0 0 1.594-1.594z" />
+                  <path d="M20 2v4" />
+                  <path d="M22 4h-4" />
+                  <circle cx="4" cy="20" r="2" />
+                </svg>
+                <span class="flip-text">AI Leap</span>
+              </a>
+              <a href="contact.php" class="tj_btn bg-black flip-text-wrap d-none d-md-inline-flex">
+                <span class="flip-text">Get in touch</span>
+              </a>
+
+              <button class="tj_sidebar_toggle">
+                <span></span>
+                <span></span>
+                <span></span>
+                <span></span>
+                <span></span>
+                <span></span>
+                <span></span>
+                <span></span>
+                <span></span>
+              </button>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </header>
+  <!-- end: Header Area -->
+
+  <div class="has-smooth" id="has_smooth"></div>
+  <div id="smooth-wrapper">
+    <div id="smooth-content">
+      <main>
+
+        <div class="inner_top_gap"></div>
+
+        <!-- start: About Section -->
+        <section class="tj-about-section fix">
+          <div class="container-fluid">
+            <div class="row">
+              <div class="col">
+                <div class="section_heading d-flex flex-xl-nowrap flex-wrap justify-content-between container-space">
+                  <span class="sec_subtitle tj-fade">[ <span>OUR SERVICES</span> ]</span>
+                  <div class="sec_right">
+                    <h1 class="sec_title fs-230 tj-reveal-line">FOUNDER AUTHORITY ENGINES</h1>
+                    <h2 class="about_text uppercase tj-reveal-line"><span class="space">Build The Presence That Opens The Room Before You Do.</span>
+                      </h2>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </section>
+        <!-- end: About Section -->
+
+        <section class="h7-service-section container-space tj-theme-dark fix">
+          <div class="container-fluid">
+            <div class="row">
+              <div class="col">
+                <div class="h7-service-header d-flex flex-wrap align-items-end justify-content-between gap-3">
+                  <div class="section_heading">
+                    <span class="sec_subtitle tj-fade">[ <span>What We Build</span> ]</span>
+                    <h2 class="sec_title tj-reveal-line">Be the Name They Drop.</h2>
+                  </div>
+                  <div class="sec_heading_right tj-fade d-none d-lg-inline-block" data-delay="0.5">
+                    <a href="services.php" class="tj_icon_btn tj_btn_6 tj_btn_6_light flip-text-wrap">
+                      <span class="flip-text">More services</span>
+                      <div class="icon_btn">
+                        <span>
+                          <i class="tji-arrow-right"></i>
+                          <i class="tji-arrow-right"></i>
+                        </span>
+                      </div>
+                    </a>
+                  </div>
+                </div>
+
+                <div class="row row-gap-30 h7-service-wrap">
+                  <div class="col-lg-4">
+                    <div class="h7-service-item tj-fade" data-delay="0.1">
+                      <div class="service-icon">
+                        <i class="tji-service-1"></i>
+                      </div>
+                      <div class="h7-service-content">
+                        <h3 class="service-title tj-fz-h4"><a href="service-details.php">LinkedIn Content Creation</a></h3>
+                        <p class="service-desc">From profile positioning and content pillars to post cadence and engagement playbooks, every element is designed to turn profile visits into inbound conversations. This isn't about vanity metrics. It's about owning the feed of the people who make decisions that matter to your business.</p>
+                      </div>
+                    </div>
+                  </div>
+                  <div class="col-lg-4">
+                    <div class="h7-service-item tj-fade" data-delay="0.3">
+                      <div class="service-icon">
+                        <i class="tji-service-2"></i>
+                      </div>
+                      <div class="h7-service-content">
+                        <h3 class="service-title tj-fz-h4"><a href="service-details.php">Thought Leadership Framework</a></h3>
+                        <p class="service-desc">We identify the ideas you should own in your industry and build the intellectual infrastructure to own them. Through POV development, signature content formats and narrative consistency, we turn your expertise into a public asset that compounds over time. You have the knowledge. We make the world feel it.</p>
+                      </div>
+                    </div>
+                  </div>
+                  <div class="col-lg-4">
+                    <div class="h7-service-item tj-fade" data-delay="0.5">
+                      <div class="service-icon">
+                        <i class="tji-service-3"></i>
+                      </div>
+                      <div class="h7-service-content">
+                        <h3 class="service-title tj-fz-h4"><a href="service-details.php">Executive &amp; Leadership Team Profiling</a></h3>
+                        <p class="service-desc">Buyers trust people before they trust companies. We build digital profiles for your leadership team that convey credibility, relevance and authority at every stage of the sales and partnership funnel. From bios and content to media presence, we make your team a reason to say yes.</p>
+                      </div>
+                    </div>
+                  </div>
+                  <div class="col-lg-6">
+                    <div class="h7-service-item tj-fade" data-delay="0.7">
+                      <div class="service-icon">
+                        <i class="tji-service-4"></i>
+                      </div>
+                      <div class="h7-service-content">
+                        <h3 class="service-title tj-fz-h4"><a href="service-details.php">Building Organic Engagement Funnels</a></h3>
+                        <p class="service-desc">We design a repeatable content engagement framework and execute it to ensure you always have the opportunity to interact with fellow leaders, potential clients and people in your network. We do this ORGANICALLY and we'd love to discuss how.</p>
+                      </div>
+                    </div>
+                  </div>
+                  <div class="col-lg-6">
+                    <div class="h7-service-item tj-fade" data-delay="0.9">
+                      <div class="service-icon">
+                        <i class="tji-service-5"></i>
+                      </div>
+                      <div class="h7-service-content">
+                        <h3 class="service-title tj-fz-h4"><a href="service-details.php">Personal Brand Audit &amp; Repositioning</a></h3>
+                        <p class="service-desc">We will fix your current presence if it doesn't reflect where you're headed. We audit your existing digital footprint, such as messaging, positioning and content history, like identifying the gaps &amp; rebuilding your public narrative to match your ambitions &amp; your market.</p>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </section>
+
+        <!-- start: Future Goal Section -->
+            <section class="h1-process-section container-space fix section-divider">
+          <div class="container-fluid">
+            <div class="row">
+              <div class="col">
+                <div class="h1_process_wrapper">
+                  <div class="section_heading d-block d-xl-none">
+                    <span class="sec_subtitle tj-fade">[ <span>WHO WE'RE FOR</span> ]</span>
+                    <div class="section_heading_inner">
+                      <h2 class="sec_title tj-reveal-line">You've built something real. But when someone Googles you before a big meeting or lands on your LinkedIn profile, the story they see doesn't match the one you're actually living. We build authority-driven digital presence that makes the right people take notice, before you even ask them to.</h2>
+                    </div>
+                  </div>
+                  <div class="h1_process_wrap">
+                    <div class="process_section_left d-none d-xl-flex">
+                      <div class="section_heading ">
+                        <span class="sec_subtitle tj-fade">[ <span>WHO WE'RE FOR</span> ]</span>
+                        <div class="section_heading_inner">
+                          <h3 class="sec_title tj-reveal-line">THE BUSINESSES WE BUILD FOR</h3>
+                        </div>
+                      </div>
+                      <style>
+                        .h1_process_no{
+                          height: 120px;
+                        }
+                        .h1_process_no span{
+                          font-size: 40px;
+                        }
+                      </style>
+                      <div class="h1_process_no tj-fade">
+                        <span>Founders raising capital or closing a big deal</span>
+                        <span>Leaders entering a new market or geography</span>
+                        <span>Experts who've never documented their thinking publicly</span>
+                        <span>CEOs whose companies have outgrown their personal brand</span>
+                        <span>Teams where the founders are the brand</span>
+                      </div>
+                    </div>
+                    <div class="h1_process_images tj-fade">
+                      <div class="tj_process_img panel">
+                        <img src="images/services/6/Businesses that rely on paid ads because organic doesn't convert_.jpg.jpeg" alt="">
+                      </div>
+                      <div class="tj_process_img panel x-100">
+                        <img src="images/services/6/Brands entering a new market or launching a new product line_.jpg.jpeg" alt="">
+                      </div>
+                      <div class="tj_process_img panel x-100">
+                        <img src="images/services/6/Businesses that tried SEO before and saw no results_.jpg.jpeg" alt="">
+                      </div>
+                      <div class="tj_process_img panel x-100">
+                        <img src="images/services/6/Companies with great content that no one ever finds_.jpg.jpeg" alt="">
+                      </div>
+                      <div class="tj_process_img panel x-100">
+                        <img src="images/services/6/Teams spending heavily on ads with rising CPCs_.jpg.jpeg" alt="">
+                      </div>
+                    </div>
+
+                    <div class="h1_process_items tj-fade">
+                      <div class="tj_process_item_2">
+                        <div class="process_top">
+                          <div class="process_wrap d-lg-none">
+                            <div class="process_no">
+                              Founders raising capital or closing a big deal
+                            </div>
+
+                            <div class="process_img">
+                              <img src="images/services/6/Businesses that rely on paid ads because organic doesn't convert_.jpg.jpeg" alt="">
+                            </div>
+                          </div>
+
+                          <h3 class="process_title tj-fz-h4">01</h3>
+                          <div class="process_desc">Investors and partners are Googling you. So, your presence needs to do the convincing.</div>
+                        </div>
+                      </div>
+
+                      <div class="tj_process_item_2">
+                        <div class="process_top">
+                          <div class="process_wrap d-lg-none">
+                            <div class="process_no">
+                              Leaders entering a new market or geography
+                            </div>
+
+                            <div class="process_img">
+                              <img src="images/services/6/Brands entering a new market or launching a new product line_.jpg.jpeg" alt="">
+                            </div>
+                          </div>
+
+                          <h3 class="process_title tj-fz-h4">02</h3>
+                          <div class="process_desc">No one knows you yet. We make sure your authority travels with you.</div>
+                        </div>
+
+                      </div>
+
+                      <div class="tj_process_item_2">
+                        <div class="process_top">
+                          <div class="process_wrap d-lg-none">
+                            <div class="process_no">
+                              Experts who've never documented their thinking publicly
+                            </div>
+
+                            <div class="process_img">
+                              <img src="images/services/6/Businesses that tried SEO before and saw no results_.jpg.jpeg" alt="">
+                            </div>
+                          </div>
+
+                          <h3 class="process_title tj-fz-h4">03</h3>
+                          <div class="process_desc">The knowledge is there. We build the content infrastructure to share it at scale.</div>
+                        </div>
+
+                      </div>
+
+                      <div class="tj_process_item_2">
+                        <div class="process_top">
+                          <div class="process_wrap d-lg-none">
+                            <div class="process_no">
+                              CEOs whose companies have outgrown their personal brand
+                            </div>
+
+                            <div class="process_img">
+                              <img src="images/services/6/Companies with great content that no one ever finds_.jpg.jpeg" alt="">
+                            </div>
+                          </div>
+
+                          <h3 class="process_title tj-fz-h4">04</h3>
+                          <div class="process_desc">Your company has grown, but you still look like you did in year one.</div>
+                        </div>
+
+                      </div>
+
+                      <div class="tj_process_item_2">
+                        <div class="process_top">
+                          <div class="process_wrap d-lg-none">
+                            <div class="process_no">
+                              Teams where the founders are the brand
+                            </div>
+
+                            <div class="process_img">
+                              <img src="images/services/6/Teams spending heavily on ads with rising CPCs_.jpg.jpeg" alt="">
+                            </div>
+                          </div>
+
+                          <h3 class="process_title tj-fz-h4">05</h3>
+                          <div class="process_desc">Sales, recruitment, and partnerships all run through your credibility. So, we make it bulletproof.</div>
+                        </div>
+
+                      </div>
+
+                    </div>
+                  </div>
+
+                  <div class="mobile_button text-center tj-fade d-lg-none">
+                    <a href="project.php" class="tj_icon_btn flip-text-wrap process_btn">
+                      <div class="icon_btn scale">
+                        <span>
+                          <i class="tji-arrow-right"></i>
+                          <i class="tji-arrow-right"></i>
+                        </span>
+                      </div>
+
+                      <span class="flip-text">Start project now</span>
+                    </a>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </section>
+        <!-- end: Future Goal Section -->
+
+        <section class="h2-project-section tj-theme-dark fix">
+
+          <div class="h2_projects_header d-flex flex-wrap align-items-end justify-content-between gap-3">
+            <div class="section_heading ">
+              <span class="sec_subtitle tj-fade">[ <span>Our Recent Projects</span> ]</span>
+              <h2 class="sec_title fs-230 tj-text-light-1 tj-chars-up">CASE STUDIES</h2>
+            </div>
+            <div class="tj-fade" data-direction="right" data-delay="0.2">
+              <a href="project.php" class="tj_icon_btn text-underline-btn light-btn">
+                <div class="icon_btn">
+                  <span>
+                    <i class="tji-arrow-right"></i>
+                    <i class="tji-arrow-right"></i>
+                  </span>
+                </div>
+                <span class="underline-text">Explore more</span>
+              </a>
+            </div>
+          </div>
+          <div class="h2_projects_wrap">
+            <div class="h2_projects_item active">
+              <div class="project_sl">\01</div>
+              <div class="project_title_wrap">
+                <h3 class="project_title split-flip-text-wrap">
+                  <a href="project-details.php"><span class="split-flip-text">Brandmark</span></a>
+                </h3>
+                <div class="project_year">
+                  [ <span>Branding - 2026</span> ]
+                </div>
+              </div>
+              <div class="project_content">
+                <p class="project_desc">We built a fresh brand identity for a growing startup, establishing a clear
+                  visual direction and strong market presence.</p>
+                <div class="project_btn_wrap">
+                  <a href="project-details.php" class="tj_marquee_btn light-btn">
+                    <span class="text_btn">
+                      <span>Learn more</span>
+                    </span>
+                  </a>
+                </div>
+              </div>
+              <div class="project_image">
+                <a href="project-details.php">
+                  <img src="images/services/common/Brand mark_.jpg" alt="Project">
+                </a>
+              </div>
+            </div>
+            <div class="h2_projects_item active">
+              <div class="project_sl">\02</div>
+              <div class="project_title_wrap">
+                <h3 class="project_title split-flip-text-wrap">
+                  <a href="project-details.php"><span class="split-flip-text">Stationery</span></a>
+                </h3>
+                <div class="project_year">
+                  [ <span>Branding - 2026</span> ]
+                </div>
+              </div>
+              <div class="project_content">
+                <p class="project_desc">Modern professional card set designed with simplicity and precision to leave
+                  a
+                  strong, lasting impression.</p>
+                <div class="project_btn_wrap">
+                  <a href="project-details.php" class="tj_marquee_btn light-btn">
+                    <span class="text_btn">
+                      <span>Learn more</span>
+                    </span>
+                  </a>
+                </div>
+              </div>
+              <div class="project_image">
+                <a href="project-details.php">
+                  <img src="images/services/common/Experience.jpg" alt="Project">
+                </a>
+              </div>
+            </div>
+            <div class="h2_projects_item active">
+              <div class="project_sl">\03</div>
+              <div class="project_title_wrap">
+                <h3 class="project_title split-flip-text-wrap">
+                  <a href="project-details.php"><span class="split-flip-text">Experience</span></a>
+                </h3>
+                <div class="project_year">
+                  [ <span>Branding - 2026</span> ]
+                </div>
+              </div>
+              <div class="project_content">
+                <p class="project_desc">We revitalized the brand identity with a modern visual system, improving
+                  clarity, consistency, recognition all digital touchpoints.</p>
+                <div class="project_btn_wrap">
+                  <a href="project-details.php" class="tj_marquee_btn light-btn">
+                    <span class="text_btn">
+                      <span>Learn more</span>
+                    </span>
+                  </a>
+                </div>
+              </div>
+              <div class="project_image">
+                <a href="project-details.php">
+                  <img src="images/services/common/Interface.jpg" alt="Project">
+                </a>
+              </div>
+            </div>
+            <div class="h2_projects_item active">
+              <div class="project_sl">\04</div>
+              <div class="project_title_wrap">
+                <h3 class="project_title split-flip-text-wrap">
+                  <a href="project-details.php"><span class="split-flip-text">Interface</span></a>
+                </h3>
+                <div class="project_year">
+                  [ <span>Branding - 2026</span> ]
+                </div>
+              </div>
+              <div class="project_content">
+                <p class="project_desc">We redesigned the SaaS platform to improve usability, streamline workflows,
+                  and
+                  deliver a more intuitive user experience.</p>
+                <div class="project_btn_wrap">
+                  <a href="project-details.php" class="tj_marquee_btn light-btn">
+                    <span class="text_btn">
+                      <span>Learn more</span>
+                    </span>
+                  </a>
+                </div>
+              </div>
+              <div class="project_image">
+                <a href="project-details.php">
+                  <img src="images/services/common/Stationery.jpg" alt="Project">
+                </a>
+              </div>
+            </div>
+          </div>
+        </section>
+
+        <!-- start: Testimonial Section -->
+        <section class="about-testimonial-section container-space tj-theme-bg-2 fix">
+          <div class="container-fluid">
+            <div class="row">
+              <div class="col">
+                <div class="section_heading text-center">
+                  <span class="sec_subtitle tj-fade" data-direction="left">[ <span>Our Clients feedback</span> ]</span>
+                  <h2 class="sec_title tj-reveal-line">Results That Our Clients Love</h2>
+                </div>
+              </div>
+              <div class="col-12">
+                <!-- navigation -->
+                <div class="tj_swiper_nav_wrapper tj-fade" data-direction="right">
+                  <button class="tj_swiper_nav prev h3-slider-prev">
+                    <span>
+                      <i class="tji-arrow-left"></i>
+                      <i class="tji-arrow-left"></i>
+                    </span>
+                  </button>
+                  <button class="tj_swiper_nav h3-slider-next">
+                    <span>
+                      <i class="tji-arrow-right"></i>
+                      <i class="tji-arrow-right"></i>
+                    </span>
+                  </button>
+                </div>
+                <div class="about_testimonial_slider_wrapper tj-fade">
+                  <div class="about_testimonial_slider swiper">
+                    <div class="swiper-wrapper">
+                      <div class="swiper-slide">
+                        <div class="tj_testimonial_item about_testimonial_item">
+                          <div class="testimonial_top">
+                            <div class="tj-author-profile">
+                              <div class="author-img">
+                                <img src="images/user-list-img-1.png" alt="Image">
+                              </div>
+                              <div class="author-info">
+                                <h3 class="name tj-fz-h5">Floyd Miles</h3>
+                                <span class="designation">Co-Founder</span>
+                              </div>
+                            </div>
+                          </div>
+                          <div class="testimonial_content">
+                            <div class="review_text">
+                              <span>"Working with acture has been a great game-changer for our business. Their team
+                                took the time to understand our goals, redesigned our website, and created a
+                                brand"</span>
+                            </div>
+                            <div class="tj-rating-wrapper rating" content="4.5" role="img"
+                              aria-label="Rated 4.5 out of 5">
+                              <div class="r-icon">
+                                <div class="r-icon-wrapper r-icon-marked">
+                                  <i aria-hidden="true" class="tj tji-star"></i>
+                                </div>
+                                <div class="r-icon-wrapper r-icon-unmarked">
+                                  <i aria-hidden="true" class="tj tji-star"></i>
+                                </div>
+                              </div>
+                              <div class="r-icon">
+                                <div class="r-icon-wrapper r-icon-marked">
+                                  <i aria-hidden="true" class="tj tji-star"></i>
+                                </div>
+                                <div class="r-icon-wrapper r-icon-unmarked">
+                                  <i aria-hidden="true" class="tj tji-star"></i>
+                                </div>
+                              </div>
+                              <div class="r-icon">
+                                <div class="r-icon-wrapper r-icon-marked">
+                                  <i aria-hidden="true" class="tj tji-star"></i>
+                                </div>
+                                <div class="r-icon-wrapper r-icon-unmarked">
+                                  <i aria-hidden="true" class="tj tji-star"></i>
+                                </div>
+                              </div>
+                              <div class="r-icon">
+                                <div class="r-icon-wrapper r-icon-marked">
+                                  <i aria-hidden="true" class="tj tji-star"></i>
+                                </div>
+                                <div class="r-icon-wrapper r-icon-unmarked">
+                                  <i aria-hidden="true" class="tj tji-star"></i>
+                                </div>
+                              </div>
+                              <div class="r-icon">
+                                <div class="r-icon-wrapper r-icon-marked" style="--r-rating-icon-marked-width: 60%;">
+                                  <i aria-hidden="true" class="tj tji-star"></i>
+                                </div>
+                                <div class="r-icon-wrapper r-icon-unmarked">
+                                  <i aria-hidden="true" class="tj tji-star"></i>
+                                </div>
+                              </div>
+
+                              <span class="label">4.9/5</span>
+                            </div>
+                          </div>
+                        </div>
+                      </div>
+                      <div class="swiper-slide">
+                        <div class="tj_testimonial_item about_testimonial_item tj-theme-bg-dark">
+                          <div class="testimonial_top">
+                            <div class="tj-author-profile">
+                              <div class="author-img">
+                                <img src="images/user-list-img-2.png" alt="Image">
+                              </div>
+                              <div class="author-info">
+                                <h3 class="name tj-fz-h5">Dianne Russell</h3>
+                                <span class="designation">Co-Founder</span>
+                              </div>
+                            </div>
+                          </div>
+                          <div class="testimonial_content">
+                            <div class="review_text">
+                              <span>"From start to finish, acture always delivered a seamless experience. Their more
+                                strategic approach to design and development helped us launch a website
+                                functional."</span>
+                            </div>
+                            <div class="tj-rating-wrapper rating" content="4.5" role="img"
+                              aria-label="Rated 4.5 out of 5">
+                              <div class="r-icon">
+                                <div class="r-icon-wrapper r-icon-marked">
+                                  <i aria-hidden="true" class="tj tji-star"></i>
+                                </div>
+                                <div class="r-icon-wrapper r-icon-unmarked">
+                                  <i aria-hidden="true" class="tj tji-star"></i>
+                                </div>
+                              </div>
+                              <div class="r-icon">
+                                <div class="r-icon-wrapper r-icon-marked">
+                                  <i aria-hidden="true" class="tj tji-star"></i>
+                                </div>
+                                <div class="r-icon-wrapper r-icon-unmarked">
+                                  <i aria-hidden="true" class="tj tji-star"></i>
+                                </div>
+                              </div>
+                              <div class="r-icon">
+                                <div class="r-icon-wrapper r-icon-marked">
+                                  <i aria-hidden="true" class="tj tji-star"></i>
+                                </div>
+                                <div class="r-icon-wrapper r-icon-unmarked">
+                                  <i aria-hidden="true" class="tj tji-star"></i>
+                                </div>
+                              </div>
+                              <div class="r-icon">
+                                <div class="r-icon-wrapper r-icon-marked">
+                                  <i aria-hidden="true" class="tj tji-star"></i>
+                                </div>
+                                <div class="r-icon-wrapper r-icon-unmarked">
+                                  <i aria-hidden="true" class="tj tji-star"></i>
+                                </div>
+                              </div>
+                              <div class="r-icon">
+                                <div class="r-icon-wrapper r-icon-marked" style="--r-rating-icon-marked-width: 60%;">
+                                  <i aria-hidden="true" class="tj tji-star"></i>
+                                </div>
+                                <div class="r-icon-wrapper r-icon-unmarked">
+                                  <i aria-hidden="true" class="tj tji-star"></i>
+                                </div>
+                              </div>
+
+                              <span class="label">4.9/5</span>
+                            </div>
+                          </div>
+                        </div>
+                      </div>
+                      <div class="swiper-slide">
+                        <div class="tj_testimonial_item about_testimonial_item">
+                          <div class="testimonial_top">
+                            <div class="tj-author-profile">
+                              <div class="author-img">
+                                <img src="images/user-list-img-3.png" alt="Image">
+                              </div>
+                              <div class="author-info">
+                                <h3 class="name tj-fz-h5">Marvin McKinney</h3>
+                                <span class="designation">Co-Founder</span>
+                              </div>
+                            </div>
+                          </div>
+                          <div class="testimonial_content">
+                            <div class="review_text">
+                              <span>"We partnered with Acture for a full brand overhaul, and the results
+                                exceeded our expectations. They helped us define a clear brand voice,
+                                modernized"</span>
+                            </div>
+                            <div class="tj-rating-wrapper rating" content="4.5" role="img"
+                              aria-label="Rated 4.5 out of 5">
+                              <div class="r-icon">
+                                <div class="r-icon-wrapper r-icon-marked">
+                                  <i aria-hidden="true" class="tj tji-star"></i>
+                                </div>
+                                <div class="r-icon-wrapper r-icon-unmarked">
+                                  <i aria-hidden="true" class="tj tji-star"></i>
+                                </div>
+                              </div>
+                              <div class="r-icon">
+                                <div class="r-icon-wrapper r-icon-marked">
+                                  <i aria-hidden="true" class="tj tji-star"></i>
+                                </div>
+                                <div class="r-icon-wrapper r-icon-unmarked">
+                                  <i aria-hidden="true" class="tj tji-star"></i>
+                                </div>
+                              </div>
+                              <div class="r-icon">
+                                <div class="r-icon-wrapper r-icon-marked">
+                                  <i aria-hidden="true" class="tj tji-star"></i>
+                                </div>
+                                <div class="r-icon-wrapper r-icon-unmarked">
+                                  <i aria-hidden="true" class="tj tji-star"></i>
+                                </div>
+                              </div>
+                              <div class="r-icon">
+                                <div class="r-icon-wrapper r-icon-marked">
+                                  <i aria-hidden="true" class="tj tji-star"></i>
+                                </div>
+                                <div class="r-icon-wrapper r-icon-unmarked">
+                                  <i aria-hidden="true" class="tj tji-star"></i>
+                                </div>
+                              </div>
+                              <div class="r-icon">
+                                <div class="r-icon-wrapper r-icon-marked" style="--r-rating-icon-marked-width: 60%;">
+                                  <i aria-hidden="true" class="tj tji-star"></i>
+                                </div>
+                                <div class="r-icon-wrapper r-icon-unmarked">
+                                  <i aria-hidden="true" class="tj tji-star"></i>
+                                </div>
+                              </div>
+
+                              <span class="label">4.9/5</span>
+                            </div>
+                          </div>
+                        </div>
+                      </div>
+                      <div class="swiper-slide">
+                        <div class="tj_testimonial_item about_testimonial_item tj-theme-bg-dark">
+                          <div class="testimonial_top">
+                            <div class="tj-author-profile">
+                              <div class="author-img">
+                                <img src="images/user-list-img-4.png" alt="Image">
+                              </div>
+                              <div class="author-info">
+                                <h3 class="name tj-fz-h5">Bessie Cooper</h3>
+                                <span class="designation">Co-Founder</span>
+                              </div>
+                            </div>
+                          </div>
+                          <div class="testimonial_content">
+                            <div class="review_text">
+                              <span>"From start to finish, acture always delivered a seamless experience. Their more
+                                strategic approach to design and development helped us launch a website
+                                functional."</span>
+                            </div>
+                            <div class="tj-rating-wrapper rating" content="4.5" role="img"
+                              aria-label="Rated 4.5 out of 5">
+                              <div class="r-icon">
+                                <div class="r-icon-wrapper r-icon-marked">
+                                  <i aria-hidden="true" class="tj tji-star"></i>
+                                </div>
+                                <div class="r-icon-wrapper r-icon-unmarked">
+                                  <i aria-hidden="true" class="tj tji-star"></i>
+                                </div>
+                              </div>
+                              <div class="r-icon">
+                                <div class="r-icon-wrapper r-icon-marked">
+                                  <i aria-hidden="true" class="tj tji-star"></i>
+                                </div>
+                                <div class="r-icon-wrapper r-icon-unmarked">
+                                  <i aria-hidden="true" class="tj tji-star"></i>
+                                </div>
+                              </div>
+                              <div class="r-icon">
+                                <div class="r-icon-wrapper r-icon-marked">
+                                  <i aria-hidden="true" class="tj tji-star"></i>
+                                </div>
+                                <div class="r-icon-wrapper r-icon-unmarked">
+                                  <i aria-hidden="true" class="tj tji-star"></i>
+                                </div>
+                              </div>
+                              <div class="r-icon">
+                                <div class="r-icon-wrapper r-icon-marked">
+                                  <i aria-hidden="true" class="tj tji-star"></i>
+                                </div>
+                                <div class="r-icon-wrapper r-icon-unmarked">
+                                  <i aria-hidden="true" class="tj tji-star"></i>
+                                </div>
+                              </div>
+                              <div class="r-icon">
+                                <div class="r-icon-wrapper r-icon-marked" style="--r-rating-icon-marked-width: 60%;">
+                                  <i aria-hidden="true" class="tj tji-star"></i>
+                                </div>
+                                <div class="r-icon-wrapper r-icon-unmarked">
+                                  <i aria-hidden="true" class="tj tji-star"></i>
+                                </div>
+                              </div>
+
+                              <span class="label">4.9/5</span>
+                            </div>
+                          </div>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </section>
+        <!-- end: Testimonial Section -->
+
+
+        <!-- start: CTA Section -->
+        <section class="h1-cta-section container-space fix">
+          <div class="bg_image" data-bg-image="./images/custom/cta-anim.gif"></div>
+
+          <div class="container-fluid">
+            <div class="row">
+              <div class="col">
+                <div class="h1_cta_wrapper">
+                  <h2 class="cta_title fs-120 tj-reveal-line">
+                    Let's talk!
+                  </h2>
+
+                  <div class="cta_buttons d-inline-flex flex-wrap tj-fade" data-direction="right">
+                    <a href="contact.php" class="tj_user_profile flip-text-wrap">
+
+                      <div class="name flip-text">Book a demo call</div>
+                    </a>
+
+                    <a href="contact.php" class="tj_bordered_btn flip-text-wrap">
+                      <span class="flip-text">Make It Happen</span>
+                    </a>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </section>
+        <!-- end: CTA Section -->
+      </main>
+
+      <!-- start: Footer Area -->
+      <footer class="h1-footer-area footer-1 tj-theme-dark">
+        <div class="h1_footer_widgets container-space">
+          <div class="container-fluid">
+            <div class="row">
+              <div class="col">
+                <div class="h1_footer_widgets_wrap">
+                  <div class="tj_footer_widget footer_info tj-fade" data-delay=".5">
+                    <div class="footer_logo">
+                      <a href="index.php" class="logo"><img src="images/custom/acture-logo-light.png" alt="Logo"></a>
+                    </div>
+                    <div class="subscription_wrap">
+                      <div class="footer_desc">
+                        Subscribe to our newsletter and get the latest design inspiration.
+                      </div>
+
+                      <div class="footer_subscription">
+                        <form action="newsletter.php" method="POST">
+                          <input type="email" name="email" id="email" placeholder="Email*">
+
+                          <button type="submit" class="icon_btn">
+                            <span>
+                              <i class="tji-arrow-right"></i>
+                              <i class="tji-arrow-right"></i>
+                            </span>
+                          </button>
+                        </form>
+                      </div>
+                    </div>
+                  </div>
+                  <hr class="tj-fade" data-delay=".5">
+                  <div class="tj_footer_widget widget-nav-menu tj-fade" data-delay=".6">
+                    <h3 class="widget_title">[ <span>Company</span> ]</h3>
+
+                    <ul>
+                      <li><a class="flip-text-wrap" href="index.php"><span class="flip-text">Home</span></a></li>
+                      <li><a class="flip-text-wrap" href="about.php"><span class="flip-text">About us</span></a></li>
+                      <li><a class="flip-text-wrap" href="services.php"><span class="flip-text">Services</span></a></li>
+                      <li><a class="flip-text-wrap" href="blogs.php"><span class="flip-text">Blog</span></a></li>
+                      <li><a class="flip-text-wrap" href="contact.php"><span class="flip-text">Contact</span></a></li>
+                      <li><a class="flip-text-wrap" href="careers.php"><span class="flip-text">Careers</span></a></li>
+                    </ul>
+                  </div>
+                  <hr class="tj-fade" data-delay=".6">
+                  <div class="tj_footer_widget widget-nav-menu tj-fade" data-delay=".7">
+                    <h3 class="widget_title">[ <span>Services</span> ]</h3>
+
+                    <ul>
+                      <li><a class="flip-text-wrap" href="services.php"><span class="flip-text">Brand Foundation Studio</span></a></li>
+                      <li><a class="flip-text-wrap" href="service-founder-authority.php"><span class="flip-text">Founder Authority Engines</span></a></li>
+                      <li><a class="flip-text-wrap" href="service-demand-pipeline.php"><span class="flip-text">Demand Pipeline Systems</span></a></li>
+                      <li><a class="flip-text-wrap" href="service-content-scale.php"><span class="flip-text">Content At Scale</span></a></li>
+                      <li><a class="flip-text-wrap" href="service-brand-storytelling.php"><span class="flip-text">Brand Storytelling</span></a></li>
+                      <li><a class="flip-text-wrap" href="service-search-engine-optimization.php"><span class="flip-text">SEO (AI)</span></a></li>
+                      <li><a class="flip-text-wrap" href="service-digital-presence.php"><span class="flip-text">Digital Presence</span></a></li>
+                      <li><a class="flip-text-wrap" href="service-conversion-intelligence.php"><span class="flip-text">Conversion Intelligence</span></a></li>
+                    </ul>
+                  </div>
+                  <hr class="tj-fade" data-delay=".7">
+                  <div class="tj_footer_widget footer_contact tj-fade" data-delay=".8">
+
+                    <div class="tj_footer_contact">
+                      <a href="tel:+918082233227" class="contact_link tj-random-char-blink">+91 80822 33227</a>
+                      <a href="mailto:info@acturemedia.com"
+                        class="contact_link tj-random-char-blink">info@acturemedia.com</a>
+                    </div>
+
+                    <ul class="tj_socials">
+                      <li>
+                        <a href="https://facebook.com" target="_blank"><i class="tji-facebook"></i></a>
+                      </li>
+                      <li>
+                        <a href="https://linkedin.com" target="_blank"><i class="tji-linkedin"></i></a>
+                      </li>
+                      <li>
+                        <a href="https://instagram.com" target="_blank"><i class="tji-instagram"></i></a>
+                      </li>
+                      <li>
+                        <a href="https://twitter.com" target="_blank"><i class="tji-x-twitter"></i></a>
+                      </li>
+                    </ul>
+
+                    <div class="tj_contact">
+                      <div class="sec_subtitle contact_title">[ <span>Location</span> ]</div>
+
+                      <div class="contact_info">
+                        1102 Ajmera Sikova, Laal Bahadur Shastri Marg, Nityanand Nagar, Ghatkopar West, Mumbai -
+                        400086
+                      </div>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+
+        <div class="h1_footer_bottom container-space">
+          <div class="container-fluid">
+            <div class="row">
+              <div class="col">
+                <div class="h1_footer_bottom_wrap">
+                  <nav class="tj_footer_nav">
+                    <ul>
+                      <li><a href="policy-privacy.php">Policy &amp; privacy</a></li>
+                      <li><a href="policy-privacy.php">Term &amp; condition</a></li>
+                    </ul>
+                  </nav>
+
+                  <div class="tj_copyright">
+                    ©<span>2026</span> <a href="index.php" target="_blank">Acture media </a>| All right reserved.
+                  </div>
+
+                  <button id="back_to_top" type="button" class="tj_back_to_top">
+                    Back to top
+                    <span>
+                      <i class="tji-arrow-up"></i>
+                      <i class="tji-arrow-up"></i>
+                    </span>
+                  </button>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </footer>
+      <!-- end: Footer Area -->
+
+    </div>
+  </div>
+
+
+
+  <!-- JS here -->
+  <script src="js/jquery.min.js"></script>
+  <script src="js/bootstrap.bundle.min.js"></script>
+  <script src="js/gsap.min.js"></script>
+  <script src="js/gsap-scroll-trigger.min.js"></script>
+  <script src="js/gsap-scroll-smoother.js"></script>
+  <script src="js/gsap-scroll-to-plugin.min.js"></script>
+  <script src="js/gsap-split-text.min.js"></script>
+  <script src="js/gsap-custom-easc.min.js"></script>
+  <script src="js/meanmenu.js"></script>
+  <script src="js/swiper.min.js"></script>
+  <script src="js/magiccursor.js"></script>
+  <script src="js/venobox.min.js"></script>
+  <script src="js/three.js"></script>
+  <script src="js/hover-effect.umd.js"></script>
+  <script src="js/webgl.js"></script>
+  <script src="js/vanilla-tilt.min.js"></script>
+  <script src="js/imagesloaded-pkgd.js"></script>
+  <script src="js/isotope.pkgd.min.js"></script>
+  <script src="js/preloader.js"></script>
+  <script src="js/window-shape-animation.js"></script>
+  <script src="js/gsap-custom-animations.js"></script>
+  <script src="js/main.js"></script>
+
+
+</body>
+
+</html>

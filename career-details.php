@@ -1,0 +1,659 @@
+﻿<!DOCTYPE html>
+<html class="no-js" lang="en">
+
+<head>
+  <meta charset="utf-8">
+  <meta http-equiv="x-ua-compatible" content="ie=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="description" content="careers">
+
+  <!-- Site Title -->
+  <title>Acture media | Career Details</title>
+
+
+  <!-- CSS here -->
+  <link rel="stylesheet" href="css/bootstrap.min.css">
+  <link rel="stylesheet" href="css/acture-icons.css">
+  <link rel="stylesheet" href="css/meanmenu.css">
+  <link rel="stylesheet" href="css/swiper.min.css">
+  <link rel="stylesheet" href="css/venobox.min.css">
+  <link rel="stylesheet" href="css/nice-select.css">
+  <link rel="stylesheet" href="css/main.css">
+</head>
+
+<body>
+  <!-- Preloader -->
+  <div class="tj-preloader">
+
+    <svg viewBox="0 0 1000 1000" preserveAspectRatio="none">
+      <path id="preloaderSvg" d="M0,1005S175,995,500,995s500,5,500,5V0H0Z"></path>
+    </svg>
+    <div class="loading-container">
+      <div class="loading-circle"></div>
+      <div id="loading-icon"><img src="images/custom/acture-logo-light.png" alt="Loading"></div>
+    </div>
+    <div class="tj-preloader_bottom">
+      <div class="loading_text">
+        [ <span>Loading Please wait...</span> ]
+      </div>
+      <div class="copyright_text">
+        [ <span>©2026</span> ]
+      </div>
+    </div>
+  </div>
+
+  <!-- Offcanvas -->
+  <div class="tj-offcanvas-overlay"></div>
+  <div class="tj-offcanvas">
+    <div class="offcanvas_bg"></div>
+    <div class="offcanvas_wrapper">
+
+      <div class="offcanvas_top d-flex flex-wrap align-items-center justify-content-between gap-3">
+        <div class="offcanvas_logo">
+          <a href="index.php" class="logo"><img src="images/custom/acture-logo-dark 1.png" alt="LOGO"></a>
+        </div>
+
+        <button class="offcanvas_close">
+          <span class="close-text">Close</span>
+
+          <span class="tj_sidebar_toggle">
+            <span></span>
+            <span></span>
+            <span></span>
+            <span></span>
+            <span></span>
+            <span></span>
+            <span></span>
+            <span></span>
+            <span></span>
+          </span>
+        </button>
+      </div>
+
+      <div class="offcanvas_action d-none d-lg-block">
+        <h5 class="greetings">Glad you’re here! <img src="images/start.svg" alt=""></h5>
+        <a href="about.php" class="tj_text_btn">
+          Know more us
+          <i class="tji-arrow-right"></i>
+        </a>
+      </div>
+
+      <!-- mobile menu -->
+      <div class="offcanvas_menu mobile_menu d-lg-none"></div>
+
+      <div class="offcanvas_contact tj_contact address">
+        <div class="sec_subtitle contact_title">[ <span>Location</span> ]</div>
+
+        <div class="contact_info">1102 Ajmera Sikova, Laal Bahadur Shastri Marg, Nityanand Nagar, Ghatkopar West, <br>
+
+          Mumbai - 400086
+        </div>
+      </div>
+
+      <div class="offcanvas_contact tj_contact contact">
+        <div class="sec_subtitle contact_title">[ <span>Contact</span> ]</div>
+
+        <a href="tel:+918082233227" class="contact_info">+918082233227</a>
+        <a href="mailto:info@acturemedia.com" class="contact_info">info@acturemedia.com</a>
+      </div>
+
+      <ul class="offcanvas_socials tj_socials">
+        <li>
+          <a href="https://facebook.com" target="_blank"><i class="tji-facebook"></i></a>
+        </li>
+        <li>
+          <a href="https://linkedin.com" target="_blank"><i class="tji-linkedin"></i></a>
+        </li>
+        <li>
+          <a href="https://instagram.com" target="_blank"><i class="tji-instagram"></i></a>
+        </li>
+        <li>
+          <a href="https://twitter.com" target="_blank"><i class="tji-x-twitter"></i></a>
+        </li>
+      </ul>
+    </div>
+  </div>
+
+  <!-- start: Header Area -->
+  <div class="tj_navigation_wrap_overlay"></div>
+  <header class="tj-header header-1 header-absolute">
+    <div class="container-fluid">
+      <div class="row">
+        <div class="col">
+          <div class="tj-header_wrap">
+
+            <!-- logo -->
+            <div class="site_logo">
+              <a class="logo" href="index.php"><img src="./images/custom/acture-logo-dark 1.png" alt="LOGO"></a>
+            </div>
+
+            <!-- navigation -->
+            <div class="site_navigation d-none d-lg-inline-flex">
+              <nav id="mobile-menu">
+                <ul>
+                  <li class="">
+                    <a href="./index.php">Home</a>
+                  </li>
+                  <li class="">
+                    <a href="./about.php">Discover us</a>
+                  </li>
+                                    <li class="has-dropdown">
+                    <a href="./services.php">Services</a>
+
+                    <ul class="sub-menu">
+                      <li><a href="./services.php">BRAND FOUNDATION STUDIO</a></li>
+                      <li><a href="./service-founder-authority.php">FOUNDER AUTHORITY ENGINES</a></li>
+                      <li><a href="./service-demand-pipeline.php">DEMAND PIPELINE SYSTEMS</a></li>
+                      <li><a href="./service-content-scale.php">CONTENT AT SCALE</a></li>
+                      <li><a href="./service-brand-storytelling.php">CONTENT &amp; BRAND STORYTELLING</a></li>
+                      <li><a href="./service-search-engine-optimization.php">SEO, BUT LET'S MAKE IT AI.</a></li>
+                      <li><a href="./service-digital-presence.php">DIGITAL PRESENCE ENGINEERING</a></li>
+                      <li><a href="./service-conversion-intelligence.php">CONVERSION INTELLIGENCE</a></li>
+                      </ul>
+                  </li>
+                  <li class="has-dropdown">
+                    <a href="#">Resources</a>
+
+                    <ul class="sub-menu">
+                      <li><a href="./blogs.php">Blogs</a></li>
+                      <li><a href="./case-studies.php">Case Studies</a></li>
+                    </ul>
+                  </li>
+                  <li>
+                    <a href="./careers.php">Careers</a>
+                  </li>
+                </ul>
+              </nav>
+            </div>
+
+            <!-- header right -->
+            <div class="tj-header_right">
+              <a href="./ai-leap.php" class="tj_btn custom-button  flip-text-wrap d-none d-md-inline-flex gap-2">
+                <svg xmlns="http://www.w3.org/2000/svg" width="18" height="18" viewBox="0 0 24 24" fill="none"
+                  stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"
+                  class="lucide lucide-sparkles-icon lucide-sparkles">
+                  <path
+                    d="M11.017 2.814a1 1 0 0 1 1.966 0l1.051 5.558a2 2 0 0 0 1.594 1.594l5.558 1.051a1 1 0 0 1 0 1.966l-5.558 1.051a2 2 0 0 0-1.594 1.594l-1.051 5.558a1 1 0 0 1-1.966 0l-1.051-5.558a2 2 0 0 0-1.594-1.594l-5.558-1.051a1 1 0 0 1 0-1.966l5.558-1.051a2 2 0 0 0 1.594-1.594z" />
+                  <path d="M20 2v4" />
+                  <path d="M22 4h-4" />
+                  <circle cx="4" cy="20" r="2" />
+                </svg>
+                <span class="flip-text">AI Leap</span>
+              </a>
+              <a href="contact.php" class="tj_btn bg-black flip-text-wrap d-none d-md-inline-flex">
+                <span class="flip-text">Get in touch</span>
+              </a>
+
+              <button class="tj_sidebar_toggle">
+                <span></span>
+                <span></span>
+                <span></span>
+                <span></span>
+                <span></span>
+                <span></span>
+                <span></span>
+                <span></span>
+                <span></span>
+              </button>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </header>
+  <!-- end: Header Area -->
+
+  <div class="has-smooth" id="has_smooth"></div>
+  <div id="smooth-wrapper">
+    <div id="smooth-content">
+      <main>
+        <!-- start: Blog Section -->
+        <section class="tj_blog_details container-space">
+          <div class="inner_top_gap"></div>
+          <div class="container-fluid">
+            <div class="tj_blog_details_header tj-careers-details-header row">
+              <div class="tj_blog_details_header_left col-lg-4 ">
+                <a href="careers.php" class="tj_icon_btn text-underline-btn blog_btn flip-text-wrap">
+                  <div class="icon_btn">
+                    <span>
+                      <i class="tji-arrow-left"></i>
+                      <i class="tji-arrow-left"></i>
+                    </span>
+                  </div>
+                  <span class="underline-text flip-text">Back to jobs</span>
+                </a>
+              </div>
+              <div class="tj_blog_details_header_right col-lg-8 ">
+                <div class="blog_meta_item categories">
+                  <span class="category">Full Time - Remote</span>
+                </div>
+                <h1 class="tj_blog_details_title title-anim">Digital marketing specialist</h1>
+              </div>
+            </div>
+            <div class="row row-gap-5 flex-column-reverse flex-lg-row">
+              <div class="col-lg-4">
+                <div class="tj_blog_sidebar">
+                  <div class="service_details_intro_content project_information p-0 " data-delay="0.5">
+                    <ul>
+                      <li><span class="project_label">[ Experience ]</span> 2+ Years experience</li>
+                      <li><span class="project_label">[ Working Hours ]</span> 10 am to 07 pm</li>
+                      <li><span class="project_label">[ Job Category ]</span> Digital marketing</li>
+                      <li><span class="project_label">[ Working Days ]</span> Mon - Fri <span>(Sat - Sun close)</span>
+                      </li>
+                      <li><span class="project_label">[ Deadline ]</span> 28 - 03 - 2026</li>
+                    </ul>
+                  </div>
+                  <div class="author_share d-flex flex-wrap align-items-center gap-2">
+                    <p class="author_share_title m-0">Share:</p>
+                    <ul class="author_socials tj_socials">
+                      <li>
+                        <a href="https://facebook.com" target="_blank" data-barba-prevent="self"><i
+                            class="tji-facebook"></i></a>
+                      </li>
+                      <li>
+                        <a href="https://linkedin.com" target="_blank" data-barba-prevent="self"><i
+                            class="tji-linkedin"></i></a>
+                      </li>
+                      <li>
+                        <a href="https://instagram.com" target="_blank" data-barba-prevent="self"><i
+                            class="tji-instagram"></i></a>
+                      </li>
+                    </ul>
+                  </div>
+
+                  <div class="tj_blog_related">
+                    <span class="sec_subtitle ">[ <span> Related job </span> ]</span>
+                    <div class="career-opening-item">
+                      <div class="career-content">
+                        <div class="career-title ff-heading tj-fz-h4"><a href="careers-details.php">Senior UI-UX
+                            product designer lead</a>
+                        </div>
+                        <div class="category-wrap">
+                          <span class="category">On site</span>
+                          <span class="category">Full time</span>
+                          <span class="category">Mid-Level</span>
+                        </div>
+                      </div>
+                      <div class="career-bottom">
+                        <a href="careers-details.php" class="tj_icon_btn">
+                          <span class="icon_btn">
+                            <span>
+                              <i class="tji-arrow-right"></i>
+                              <i class="tji-arrow-right"></i>
+                            </span>
+                          </span>
+                        </a>
+                        <div class="salary-range">
+                          02 Vacancies
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+              </div>
+              <div class="col-lg-8">
+                <div class="tj_blog_details_body tj-careers-details-body">
+                  <div class="tj-job-info-area">
+                    <div class="tj-job-info-box service_details_intro_content project_information ">
+                      <ul>
+                        <li><span class="project_label">[ Salary range ]</span> Not Disclosed</li>
+                        <li class="divider"></li>
+                        <li><span class="project_label">[ Location ]</span> Ghatkopar, Mumbai</li>
+                        <li class="divider d-xl-block d-lg-none"></li>
+                        <li><span class="project_label">[ Job post ]</span> 03 - 02 - 2026</li>
+                        <li class="divider"></li>
+                        <li><span class="project_label">[ Vacancy ]</span> 02</li>
+                      </ul>
+                    </div>
+                    <p class="">We’re looking for a <b>Digital Marketing</b> Specialist who can plan, execute,
+                      and
+                      optimize data-driven marketing campaigns across multiple digital channels. You’ll work closely
+                      with
+                      designers, developers, and strategists to grow brands, increase engagement, and deliver measurable
+                      results. As a Digital Marketing Specialist, you’ll be responsible for managing
+                      <b>performance-focused</b> campaigns, improving online visibility, and driving qualified traffic.
+                      This role requires both creative thinking and analytical skills.
+                    </p>
+                    <p class="">As a Digital Marketing Specialist, you’ll be responsible for managing
+                      performance-focused campaigns, improving online visibility, and driving qualified traffic. This
+                      role
+                      requires both <b>creative thinking and analytical skills,</b> with a strong understanding of
+                      modern
+                      digital marketing tools and platforms. As a Digital Marketing Specialist, you’ll be responsible
+                      for
+                      managing performance.</p>
+                  </div>
+                  <h2 class="">Responsibilities</h2>
+                  <p class="">As a Digital Marketing Specialist, you’ll be responsible for managing
+                    performance-focused campaigns, improving online visibility, and driving qualified traffic. This role
+                    requires both <b>creative thinking and analytical skills,</b> with a strong understanding of modern
+                    digital marketing tools and platforms. As a Digital Marketing Specialist, you’ll be responsible for
+                    managing performance.</p>
+                  <ul class="">
+                    <li><b>Plan and execute</b> digital marketing campaigns across multiple channels</li>
+                    <li><b>Manage paid advertising </b> campaigns on Google Ads, Meta, and LinkedIn</li>
+                    <li><b>Optimize website content </b> and landing pages for higher conversions</li>
+                    <li><b>Conduct keyword </b> research and SEO optimization for organic growth</li>
+                    <li><b>Monitor market trends </b> and competitors to identify opportunities</li>
+                    <li><b>Prepare performance </b> reports and insights for stakeholders</li>
+                    <li><b>Analyze campaign </b> performance using data and analytics tools</li>
+                  </ul>
+                  <h2 class="">Requirements</h2>
+                  <p class="">As a Digital Marketing Specialist, you’ll be responsible for managing
+                    performance-focused campaigns, improving online visibility, and driving qualified traffic. This role
+                    requires both <b>creative thinking and analytical skills,</b> with a strong understanding of modern
+                    digital marketing tools and platforms. As a Digital Marketing Specialist, you’ll be responsible for
+                    managing performance.</p>
+                  <ul class="">
+                    <li><b>Proven experience </b> in digital marketing or performance marketing roles</li>
+                    <li><b>Strong knowledge of SEO, </b> SEM, and paid media platforms</li>
+                    <li><b>Hands-on experience </b> with analytics tools like Google Analytics</li>
+                    <li><b>Ability to manage </b> multiple campaigns simultaneously</li>
+                    <li><b>Excellent communication </b> and teamwork skills</li>
+                    <li><b>Data-driven mindset </b> with attention to detail</li>
+                    <li><b>Rebranding – </b> communicate their values, and stand</li>
+                  </ul>
+
+                  <h2 class="">Skill needed</h2>
+                  <p class="">As a Digital Marketing Specialist, you’ll be responsible for managing
+                    performance-focused campaigns, improving online visibility, and driving qualified traffic. This role
+                    requires both <b>creative thinking and analytical skills,</b> with a strong understanding of modern
+                    digital marketing tools and platforms. As a Digital Marketing Specialist, you’ll be responsible for
+                    managing performance.</p>
+                  <div class="tj-skill-item-wrap ">
+                    <span class="tj-skill-item">UX/UI Design</span>
+                    <span class="tj-skill-item">Website design</span>
+                    <span class="tj-skill-item">Web development</span>
+                    <span class="tj-skill-item">HTML/CSS</span>
+                    <span class="tj-skill-item">Javascript</span>
+                    <span class="tj-skill-item">WordPress</span>
+                    <span class="tj-skill-item">Customizations</span>
+                    <span class="tj-skill-item">Customizations</span>
+                  </div>
+                  <h2 class="">Extras</h2>
+                  <p class="">As a Digital Marketing Specialist, you’ll be responsible for managing
+                    performance-focused campaigns, improving online visibility, and driving qualified traffic. This role
+                    requires both <b>creative thinking and analytical skills,</b> with a strong understanding of modern
+                    digital marketing tools and platforms. As a Digital Marketing Specialist, you’ll be responsible for
+                    managing performance.</p>
+                  <ul class="">
+                    <li><b>Global Exposure – </b> work with international clients across diverse industries</li>
+                    <li><b>Performance Focus – </b> learn how data-driven decisions improve campaign results</li>
+                    <li><b>Cross-Team Collaboration – </b> partner with designers, developers, and strategists</li>
+                    <li><b>Ownership Mindset – </b> take responsibility from planning to execution</li>
+                    <li><b>Continuous Learning – </b> stay updated with tools, trends, and best practices</li>
+                    <li><b>Brand Building – </b> strengthen brand presence through consistent messaging</li>
+                  </ul>
+
+                </div>
+                <div class="tj-careers-form ">
+                  <h2 class="careers-form-title">Get started</h2>
+                  <div class="careers-form-desc">The digital products we interact with every day—apps, websites,
+                    platforms—are shaping how we live, work.</div>
+                  <div class="row">
+
+                    <div class="col-xl-6 col-12">
+                      <div class="form-input">
+                        <label class="cf-label">Your full name<span>*</span></label>
+                        <input type="text" id="name" name="name" placeholder="Enter full name" required="">
+                      </div>
+                    </div>
+                    <div class="col-xl-6 col-12">
+                      <div class="form-input">
+                        <label class="cf-label">Your Email<span>*</span></label>
+                        <input type="email" id="emailOne" name="name" placeholder="Enter email" required="">
+                      </div>
+                    </div>
+                    <div class="col-xl-6 col-12">
+                      <div class="form-input">
+                        <label class="cf-label">Your Phone Number<span>*</span></label>
+                        <input type="tel" id="phone" name="name" placeholder="Enter phone number" required="">
+                      </div>
+                    </div>
+                    <div class="col-xl-6 col-12">
+                      <div class="form-input">
+                        <label class="cf-label">Position Applied For<span>*</span></label>
+                        <div class="tj-nice-select-box">
+                          <div class="tj-select">
+                            <select name="cfSubject">
+                              <option value="1">Digital marketing specialist</option>
+                              <option value="2">Senior UI-UX product designer lead</option>
+                              <option value="3">Search engine specialist</option>
+                              <option value="4">Content marketing specialist</option>
+                              <option value="5">Senior frontend developer</option>
+                              <option value="6">Motion graphics designer</option>
+                            </select>
+                          </div>
+                        </div>
+                      </div>
+                    </div>
+                    <div class="col-xl-6 col-12">
+                      <div class="form-input">
+                        <label class="cf-label">Upload Resume / CV<span>*</span></label>
+                        <div class="upload-file-area">
+                          <span class="chose">Chose file</span>
+                          <span class="file-name">No file chosen</span>
+                          <input type="file" id="inputFile" required="">
+                        </div>
+                      </div>
+                    </div>
+                    <div class="col-xl-6 col-12">
+                      <div class="form-input">
+                        <label class="cf-label">Portfolio / Website Link<span>*</span></label>
+                        <input type="url" id="portfolio" name="name" placeholder="Enter link" required="">
+                      </div>
+                    </div>
+                    <div class="col-12">
+                      <div class="form-input">
+                        <label class="cf-label">Your Cover Message<span>*</span></label>
+                        <textarea id="message" name="message" placeholder="Tell us briefly why you’re a good fit..."
+                          required=""></textarea>
+                      </div>
+                    </div>
+                    <div class="comments-btn">
+                      <button type="submit" class="tj_icon_btn flip-text-wrap">
+                        <span class="icon_btn scale">
+                          <span>
+                            <i class="tji-arrow-right"></i>
+                            <i class="tji-arrow-right"></i>
+                          </span>
+                        </span>
+                        <span class="flip-text">Submit now</span>
+                      </button>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </section>
+        <!-- end: Blog Section -->
+
+        <!-- start: CTA Section -->
+        <section class="h1-cta-section container-space fix">
+          <div class="bg_image" data-bg-image="./images/custom/cta-anim.gif"></div>
+
+          <div class="container-fluid">
+            <div class="row">
+              <div class="col">
+                <div class="h1_cta_wrapper">
+                  <h2 class="cta_title fs-120 tj-reveal-line">
+                    Let’s talk!
+                  </h2>
+
+                  <div class="cta_buttons d-inline-flex flex-wrap " data-direction="right">
+                    <a href="contact.php" class="tj_btn bg-black flip-text-wrap">
+                      <div class="name flip-text">Book a demo call</div>
+                    </a>
+
+                    <a href="contact.php" class="tj_bordered_btn flip-text-wrap">
+                      <span class="flip-text">Make It Happen</span>
+                    </a>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </section>
+        <!-- end: CTA Section -->
+      </main>
+
+      <!-- start: Footer Area -->
+      <footer class="h1-footer-area footer-1 tj-theme-dark">
+        <div class="h1_footer_widgets container-space">
+          <div class="container-fluid">
+            <div class="row">
+              <div class="col">
+                <div class="h1_footer_widgets_wrap">
+                  <div class="tj_footer_widget footer_info " data-delay=".5">
+                    <div class="footer_logo">
+                      <a href="index.php" class="logo"><img src="images/custom/acture-logo-light.png" alt="Logo"></a>
+                    </div>
+                    <div class="subscription_wrap">
+                      <div class="footer_desc">
+                        Subscribe to our newsletter and get the latest design inspiration.
+                      </div>
+
+                      <div class="footer_subscription">
+                        <form action="newsletter.php" method="POST">
+                          <input type="email" name="email" id="email" placeholder="Email*">
+
+                          <button type="submit" class="icon_btn">
+                            <span>
+                              <i class="tji-arrow-right"></i>
+                              <i class="tji-arrow-right"></i>
+                            </span>
+                          </button>
+                        </form>
+                      </div>
+                    </div>
+                  </div>
+                  <hr class="" data-delay=".5">
+                  <div class="tj_footer_widget widget-nav-menu " data-delay=".6">
+                    <h3 class="widget_title">[ <span>Company</span> ]</h3>
+
+                    <ul>
+                      <li><a class="flip-text-wrap" href="index.php"><span class="flip-text">Home</span></a></li>
+                      <li><a class="flip-text-wrap" href="about.php"><span class="flip-text">About us</span></a></li>
+                      <li><a class="flip-text-wrap" href="services.php"><span class="flip-text">Services</span></a></li>
+                      <li><a class="flip-text-wrap" href="blogs.php"><span class="flip-text">Blog</span></a></li>
+                      <li><a class="flip-text-wrap" href="contact.php"><span class="flip-text">Contact</span></a></li>
+                      <li><a class="flip-text-wrap" href="careers.php"><span class="flip-text">Careers</span></a></li>
+                    </ul>
+                  </div>
+                  <hr class="" data-delay=".6">
+                  <div class="tj_footer_widget widget-nav-menu " data-delay=".7">
+                    <h3 class="widget_title">[ <span>Services</span> ]</h3>
+
+                    <ul>
+                      <li><a class="flip-text-wrap" href="services.php"><span class="flip-text">Brand Foundation Studio</span></a></li>
+                      <li><a class="flip-text-wrap" href="service-founder-authority.php"><span class="flip-text">Founder Authority Engines</span></a></li>
+                      <li><a class="flip-text-wrap" href="service-demand-pipeline.php"><span class="flip-text">Demand Pipeline Systems</span></a></li>
+                      <li><a class="flip-text-wrap" href="service-content-scale.php"><span class="flip-text">Content At Scale</span></a></li>
+                      <li><a class="flip-text-wrap" href="service-brand-storytelling.php"><span class="flip-text">Brand Storytelling</span></a></li>
+                      <li><a class="flip-text-wrap" href="service-search-engine-optimization.php"><span class="flip-text">SEO (AI)</span></a></li>
+                      <li><a class="flip-text-wrap" href="service-digital-presence.php"><span class="flip-text">Digital Presence</span></a></li>
+                      <li><a class="flip-text-wrap" href="service-conversion-intelligence.php"><span class="flip-text">Conversion Intelligence</span></a></li>
+                    </ul>
+                  </div>
+                  <hr class="" data-delay=".7">
+                  <div class="tj_footer_widget footer_contact " data-delay=".8">
+
+                    <div class="tj_footer_contact">
+                      <a href="tel:+918082233227" class="contact_link tj-random-char-blink">+91 80822 33227</a>
+                      <a href="mailto:info@acturemedia.com"
+                        class="contact_link tj-random-char-blink">info@acturemedia.com</a>
+                    </div>
+
+                    <ul class="tj_socials">
+                      <li>
+                        <a href="https://facebook.com" target="_blank"><i class="tji-facebook"></i></a>
+                      </li>
+                      <li>
+                        <a href="https://linkedin.com" target="_blank"><i class="tji-linkedin"></i></a>
+                      </li>
+                      <li>
+                        <a href="https://instagram.com" target="_blank"><i class="tji-instagram"></i></a>
+                      </li>
+                      <li>
+                        <a href="https://twitter.com" target="_blank"><i class="tji-x-twitter"></i></a>
+                      </li>
+                    </ul>
+
+                    <div class="tj_contact">
+                      <div class="sec_subtitle contact_title">[ <span>Location</span> ]</div>
+
+                      <div class="contact_info">
+                        1102 Ajmera Sikova, Laal Bahadur Shastri Marg, Nityanand Nagar, Ghatkopar West, Mumbai -
+                        400086
+                      </div>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+
+        <div class="h1_footer_bottom container-space">
+          <div class="container-fluid">
+            <div class="row">
+              <div class="col">
+                <div class="h1_footer_bottom_wrap">
+                  <nav class="tj_footer_nav">
+                    <ul>
+                      <li><a href="policy-privacy.php">Policy & privacy</a></li>
+                      <li><a href="policy-privacy.php">Term & condition</a></li>
+                    </ul>
+                  </nav>
+
+                  <div class="tj_copyright">
+                    ©<span>2026</span> <a href="index.php" target="_blank">Acture media </a>| All right reserved.
+                  </div>
+
+                  <button id="back_to_top" type="button" class="tj_back_to_top">
+                    Back to top
+                    <span>
+                      <i class="tji-arrow-up"></i>
+                      <i class="tji-arrow-up"></i>
+                    </span>
+                  </button>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </footer>
+      <!-- end: Footer Area -->
+
+    </div>
+  </div>
+
+  <!-- JS here -->
+  <script src="js/jquery.min.js"></script>
+  <script src="js/bootstrap.bundle.min.js"></script>
+  <script src="js/gsap.min.js"></script>
+  <script src="js/gsap-scroll-trigger.min.js"></script>
+  <script src="js/gsap-scroll-smoother.js"></script>
+  <script src="js/gsap-scroll-to-plugin.min.js"></script>
+  <script src="js/gsap-split-text.min.js"></script>
+  <script src="js/gsap-custom-easc.min.js"></script>
+  <script src="js/meanmenu.js"></script>
+  <script src="js/swiper.min.js"></script>
+  <script src="js/magiccursor.js"></script>
+  <script src="js/venobox.min.js"></script>
+  <script src="js/jquery.nice-select.min.js"></script>
+  <script src="js/three.js"></script>
+  <script src="js/hover-effect.umd.js"></script>
+  <script src="js/webgl.js"></script>
+  <script src="js/window-shape-animation.js"></script>
+  <script src="js/preloader.js"></script>
+  <script src="js/imagesloaded-pkgd.js"></script>
+  <script src="js/isotope.pkgd.min.js"></script>
+  <script src="js/gsap-custom-animations.js"></script>
+  <script src="js/main.js"></script>
+
+
+</body>
+
+</html>
